@@ -145,6 +145,21 @@ ruff check src tests
 Use the manuscript title above and the final published bibliographic details
 when they become available.
 
+## Disclaimer
+
+This software is provided for research and educational purposes only. It is
+provided "as is", without warranties or guarantees of accuracy, reliability,
+fitness for a particular purpose, profitability, or uninterrupted operation.
+
+The authors are not responsible for financial losses, trading decisions,
+commercial damages, data loss, security incidents, or other consequences
+arising from the use or misuse of this software.
+
+Commercial use is permitted under the MIT License. Users are responsible for
+independently validating the software and ensuring compliance with applicable
+laws, regulations, third-party licenses, dataset licenses, and pretrained-model
+licenses.
+
 ## License
 
 MIT. Dataset and pretrained-model licenses remain governed by their original
