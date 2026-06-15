@@ -1,6 +1,6 @@
 # RADS: Relational Adversarial Deviation Score
 
-This repository is a manuscript-aligned reference implementation of:
+This repository provides a manuscript-aligned reference implementation. Exact reproduction of the reported numerical results requires the original aligned Apple/S&P 500 dataset and final experimental split, which are not included in the available files.
 
 > Relational Adversarial Deviation Score for Robust Multi-Modal Stock Market
 > Prediction under Data Poisoning Attacks
